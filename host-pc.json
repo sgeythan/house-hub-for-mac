@@ -1,0 +1,6 @@
+{
+  "path": "",
+  "role": "editor",
+  "hubRunsOn": "mac",
+  "note": "This Windows PC edits. The Mac runs House Hub. Set path to the shared Mac folder, e.g. \\\\192.168.0.20\\Users\\esale\\Documents\\house-hub or \\\\MacBook-Pro\\Users\\esale\\Documents\\house-hub"
+}
